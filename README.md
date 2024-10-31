@@ -1,5 +1,6 @@
 # plant_leaf_classification
 The task to identify pieces of plant leaf by machine learning and deep learning.  
+It was done in 2021.This is my Graduation Thesis for bachelor degree.Now I have done many other research in the past years. My skill of coding is improved now.  
 These code just were shown for finding the RA or PhD position in hk.  
 You can browse any script.  
 My style for coding is little code to do more things.The more think, the less write.So if you browse any script, you will find I just write them like writing a article. I will let anyone can understand what I have done in the script.  
